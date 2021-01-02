@@ -1,0 +1,77 @@
+commit 7888962f31065dbca979115b64bb3af705f9cd9b
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Wed Oct 28 17:14:30 2020 -0400
+
+    comments added, edge cases checked, all seems good
+
+commit e73e0967bd42c7aabeeb559205d409fd7db1a332
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Wed Oct 28 13:46:22 2020 -0400
+
+    need to add comments to header file and write readme
+
+commit f927c85e23c2aab90888ae975e9f9ff8e7b18dd8
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Mon Oct 26 11:34:32 2020 -0400
+
+    seam carve op working, need to check edge cases, no valgrind errors
+
+commit 287bd7d375039d7e6b0a2adf31a4b42a4a147966
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Mon Oct 26 08:16:19 2020 -0400
+
+    transpose fixed, small error in assignDir function for seam carving, need to fix crop
+
+commit 4e45cef810de961a53ffc27e846a06f6880c5979
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Sun Oct 25 16:54:04 2020 -0400
+
+    issue with transpose, seam carve should work after transpose fix
+
+commit 9bea8476e693c2c89688bb4942d499047844cc4c
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Fri Oct 23 05:20:08 2020 -0400
+
+    started seam carve, compiles, need to check valgrind, needs error checking
+
+commit cd38442ee0ea476cb1783c843bbdda0ac90d33bd
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Thu Oct 22 06:37:24 2020 -0400
+
+    gradient op finished, no valgrind errors
+
+commit d628922980b4e37ed4fd59001f86dcf6dbf3ab1a
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Wed Oct 21 16:05:15 2020 -0400
+
+    transpose op finished, no valgrind errors
+
+commit 00cfa44b7b9d9391f5788be41245cd3f7409ac43
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Tue Oct 20 06:28:46 2020 -0400
+
+    binarize op finished, no valgrind errors
+
+commit 1da5cb7c1ba1e676ebff58b47c3cdb547b9d5433
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Mon Oct 19 05:33:19 2020 -0400
+
+    crop works, no valgrind errors
+
+commit c69b72f96f0d1a6ead3bfa5e59f8600368638938
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Sun Oct 18 05:50:42 2020 -0400
+
+    grayscale op works
+
+commit 600b6cf5731540b93f8e7721f421828a8d17f522
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Fri Oct 16 06:58:29 2020 -0400
+
+    started project - written skeleton code
+
+commit ccdb42d6b96229575368e49ac4c94b2906f7213e
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Sun Oct 11 05:32:05 2020 -0400
+
+    first commit

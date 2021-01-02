@@ -1,0 +1,6 @@
+Abdullah Al Armouti, JHED: aalarmo1
+Chad Oliver, JHED: colive21
+
+In terms of project design, we tried to modularize our code as much as possible to maintain code readability, and this meant we needed to create some helper methods, since some operations were common across all image processing functions, for example error printing.
+
+The seam carving operation generally takes less than 10 seconds to run and produce an output image
